@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordy</h1>
-<h3 align="center">A IT student from the Netherlands</h3>
+<h3 align="center">An IT student from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordyegnl&label=Profile%20views&color=0e75b6&style=flat" alt="jordyegnl" /> </p>
 
