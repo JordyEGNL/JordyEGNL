@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordyegnl&label=Profile%20views&color=0e75b6&style=flat" alt="jordyegnl" /> </p>
 
-- 🌱 I’m currently learning **HTMl, CSS and other things like CCNA**
+- 🌱 I’m currently learning **CCNA2, Adobe Illustrator and Adobe Photoshop**
 
-- 📫 How to reach me **contact@jordyeg.nl**
+- 📫 You can reach me at **contact@jordyeg.nl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
