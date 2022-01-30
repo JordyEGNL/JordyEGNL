@@ -7,7 +7,12 @@
 
 - 📫 You can reach me at **contact@jordyeg.nl**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My contributions:</h3>
+
+- 📑 Translated the following repo's: <a href="https://github.com/LawnchairLauncher/lawnchair">Lawnchair</a>, <a href="https://github.com/jamie-mh/AuthenticatorPro">Authenticator Pro</a>, <a href="https://github.com/File-New-Project/EarTrumpet">EarTrumpet</a>, <a href="https://github.com/kiwibrowser/src.next">Kiwi Browser</a>, <a href="https://github.com/dongle-the-gadget/WinverUWP">WinverUWP</a> and <a href="https://github.com/emoacht/Monitorian">Monitorian</a>
+
+- ✏️ Designed app icons for <a href="https://github.com/LawnchairLauncher/lawnicons">Lawnicons</a>
+
 <p align="left">
 </p>
 
