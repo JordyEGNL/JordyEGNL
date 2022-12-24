@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordyegnl&label=Profile%20views&color=0e75b6&style=flat" alt="jordyegnl" /> </p>
 
-- 🌱 I’m currently learning **CCNA3, Linux and Docker**
-
-- 📫 You can reach me at **contact@jordyeg.nl**
-
-- 📝 Visit my documentation website at https://docs.jordyhoebergen.nl
+- 🌱 I’m currently learning **DevOps, Linux and Docker**
 
 <h3 align="left">My contributions:</h3>
 
