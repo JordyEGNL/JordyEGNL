@@ -9,7 +9,7 @@
 
 - 📑 Translated the following repo's: <a href="https://github.com/LawnchairLauncher/lawnchair">Lawnchair</a>, <a href="https://github.com/jamie-mh/AuthenticatorPro">Authenticator Pro</a>, <a href="https://github.com/File-New-Project/EarTrumpet">EarTrumpet</a>, <a href="https://github.com/kiwibrowser/src.next">Kiwi Browser</a>, <a href="https://github.com/dongle-the-gadget/WinverUWP">WinverUWP</a> and <a href="https://github.com/emoacht/Monitorian">Monitorian</a>
 
-- Not much more, but I am using GitHub to store some personal Ansible files. Did you know that https://jordyhoebergen.nl/ is hosted on GitHub?
+- I am using GitHub to store some personal Ansible and Docker(-compose) files. Did you know that https://jordyhoebergen.nl/ is hosted on GitHub?
 
 <p align="left">
 </p>
